@@ -1,0 +1,28 @@
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.exe.config
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.exe
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.pdb
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması_Bro.Form1.resources
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması_Bro.Properties.Resources.resources
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csproj.GenerateResource.cache
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.exe
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.pdb
+C:\Users\Berke\source\repos\SiparişUygulaması Bro\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csprojAssemblyReference.cache
+C:\Users\Berke\Desktop\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.exe.config
+C:\Users\Berke\Desktop\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.exe
+C:\Users\Berke\Desktop\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.pdb
+C:\Users\Berke\Desktop\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csprojAssemblyReference.cache
+C:\Users\Berke\Desktop\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması_Bro.Form1.resources
+C:\Users\Berke\Desktop\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması_Bro.Properties.Resources.resources
+C:\Users\Berke\Desktop\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csproj.GenerateResource.cache
+C:\Users\Berke\Desktop\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.exe
+C:\Users\Berke\Desktop\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.pdb
+C:\Users\Berke\Desktop\PROJELER\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.exe.config
+C:\Users\Berke\Desktop\PROJELER\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.exe
+C:\Users\Berke\Desktop\PROJELER\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\bin\Debug\SiparişUygulaması Bro.pdb
+C:\Users\Berke\Desktop\PROJELER\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csprojAssemblyReference.cache
+C:\Users\Berke\Desktop\PROJELER\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması_Bro.Form1.resources
+C:\Users\Berke\Desktop\PROJELER\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması_Bro.Properties.Resources.resources
+C:\Users\Berke\Desktop\PROJELER\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.csproj.GenerateResource.cache
+C:\Users\Berke\Desktop\PROJELER\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.exe
+C:\Users\Berke\Desktop\PROJELER\PROJE VERSİYONLARI\NYP-BERKE ÖNCÜL 172803011\SiparişUygulaması Bro\obj\Debug\SiparişUygulaması Bro.pdb
